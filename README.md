@@ -1,4 +1,3 @@
-- Hi, I’m @Viraj-Bagga
-- I’m interested in developing code, and would one day like to make it my job
-- I’m currently learning the basics of code, as I am still very young, and am new to this
-- Linkdein : https://www.linkedin.com/in/viraj-bagga/
+Hi there. I'm Viraj👋
+- I am currentally working on building my portfolio.
+- I'm currentally learning Data Science with Python.

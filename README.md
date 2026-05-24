@@ -1,12 +1,19 @@
-# Hi there. I'm Viraj👋
-- 🐜 I'm currentally working on building my portfolio.
-- 🧠 I'm currentally learning Data Science with Python.
-- 🔍 I'm Looking to collaborate on open source projects.
-- 📭 You can reach me on [Linkedin](https://www.linkedin.com/in/viraj-bagga/)
+# Hi, I'm Viraj Bagga 👋
 
+I am a Computer Science student at the University of Pittsburgh. I am focused on mastering software engineering fundamentals, developing robust backend systems, and exploring practical implementations of data science and artificial intelligence.
 
-[![Viraj-Bagga's github stats](https://github-readme-stats.vercel.app/api?username=Viraj-Bagga&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🛠️ Current Focus & Skills
+* **Languages:** Python, Java
+* **Core Interests:** Software Architecture, Core AI/Data Science, Systems and Scripting
+* **Tools:** Git, GitHub, Linux Environments
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj-Bagga)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🚀 Upcoming Projects
+* Currently structuring a modular Python ecosystem aimed at automated asset management and data orchestration. *Repository coming soon.*
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/viraj-bagga)

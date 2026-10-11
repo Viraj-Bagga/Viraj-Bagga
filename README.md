@@ -24,7 +24,7 @@ Most of what I build is AI that runs locally: small models, retrieval over sourc
 
 ## Experience
 
-- **Air Force Research Laboratory, Rome NY** · Cyber Vulnerability Analyst Intern, Summer 2026, through VICEROY MAVEN. Distinguished Scholar (top 10% of the cohort). System hardening and security compliance work, and a Cyber Blue Book on security standards for underwater AI-enabled data centers.
+- **Air Force Research Laboratory, Rome NY** · Cyber Vulnerability Analyst Intern, Summer 2026. VICEROY MAVEN Distinguished Graduate (top 10% of the cohort). System hardening and security compliance work, and a Cyber Blue Book on security standards for underwater AI-enabled data centers.
 - **Space Force i5** · National board member and deputy squadron commander. Iris started as the news feed for my squadron.
 
 ## Stack
